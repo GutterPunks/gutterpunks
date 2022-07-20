@@ -1,0 +1,40 @@
+{
+  "GP_CONTRACT_ADDRESS": "0x9a54988016E97Fdc388D1b084BcbfE32De91b70c",
+  "OMNI_CONTRACT_ADDRESS": "0xf689554c1bc3dC54152a271210eeF9f55979c4f6",
+  "ENDPOINT_CONTRACT_ADDRESS": "0x66A71Dcef29A0fFBDBE3c6a460a3B5BC225Cd675",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "TRAVERSAL_CHAINS": 
+    [{
+     "NAME": "Binance",
+     "SYMBOL": "BSC",
+     "ID": 2 
+    },{
+     "NAME": "Avalanche",
+     "SYMBOL": "AVAX",
+     "ID": 6 
+    },{
+     "NAME": "Polygon",
+     "SYMBOL": "MATIC",
+     "ID": 9 
+    },{
+     "NAME": "Arbitrum",
+     "SYMBOL": "ARB",
+     "ID": 10 
+    },{
+     "NAME": "Optimism",
+     "SYMBOL": "OPT",
+     "ID": 11 
+    },{
+     "NAME": "Fantom",
+     "SYMBOL": "FTM",
+     "ID": 12 
+    }
+  ],
+  "TRAVERSAL_GAS_LIMIT": 350000,
+  "SET_APPROVAL_GAS_LIMIT": 60000,
+  "SHOW_BACKGROUND": true
+}
